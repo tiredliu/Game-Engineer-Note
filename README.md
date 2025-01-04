@@ -57,5 +57,7 @@
 
 ## 赞助渠道
 
-![fukuanma](image/.README_image/fukuanma.png)
+<img src="image/.README_image/fukuanma.png" width="300">
+
+
 
