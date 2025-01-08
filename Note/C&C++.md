@@ -530,7 +530,15 @@ cout <<(int)x<< endl;//输出：1
 '\x000…0ff'计算得这是一个16进制字符，其值为255，因此结果也为2个字节     
 ```
 
+#### 5.2.2.`ASCII`表
 
+**可显示字符**
+
+![ascii-1-1](image/.C&C++_image/ascii-1-1.png)
+
+**控制字符**
+
+![ascii-2-1](image/.C&C++_image/ascii-2-1.png)
 
 ### 5.3.布尔型
 
@@ -833,3 +841,8 @@ char* b = reinterpret_cast<char*>(a);  // 将int指针转换为char指针
 
 
 ### 6.3.算数运算符
+
+
+
+ASCII码的有趣小知识，小写字母和大写字母的按位异或值必定为32
+
